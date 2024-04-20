@@ -1,0 +1,6 @@
+countries=("Spain", "India","Italy","Pakistan")
+temp=list(countries)
+temp.append("Nepal")
+temp.pop(0)
+countries=tuple(temp)
+print(countries)
