@@ -6,6 +6,7 @@ if(a>18):
 else:
     print("You cannot drive because your age is not 18 ")
 
+
 #elif statements
 num=0
 if(num>0):
