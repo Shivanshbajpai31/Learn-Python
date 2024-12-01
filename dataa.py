@@ -76,7 +76,7 @@ def main():
     end = find_coordinates(full_map, 'D')
     shortest_distance = bfs(full_map, start, end)
     print(shortest_distance)
-
+.
 if __name__ == "__main__":
     main()
 
